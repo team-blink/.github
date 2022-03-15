@@ -1,8 +1,10 @@
 ---
 name: "\U0001F41B Bug"
 about: Meld een reproduceerbare bug.
+title: ''
 labels: bug
 assignees: mavdhe
+
 ---
 
 **Omschrijving**
