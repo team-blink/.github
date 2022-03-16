@@ -3,26 +3,20 @@ name: "\U0001F9E9 Requirement (alleen voor Product Owners)"
 about: Een nieuwe requirement (use-case) of een wijziging op een bestaande.
 title: ''
 labels: ''
-assignees: mavdhe
 
 ---
 
 ## Beschrijving
 
+Beschrijf:
+- motivatie
+- doelen
+- wat er in scope is
 
+## Out of scope (optioneel)
 
-## Motivatie en doelen
+Beschrijf waar geen rekening mee gehouden hoeft te worden.
 
-
-
-## In scope
-
-
-
-## Out of scope
-
-
-
-## Risico's
+## Risico's (optioneel)
 
 Mogelijke misinterpretaties door developers, misbruik door eindgebruikers, beperkingen voor toekomstige uitbreidingen, security risico's, performance risico's.
