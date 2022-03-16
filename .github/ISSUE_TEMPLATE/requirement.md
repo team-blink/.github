@@ -6,22 +6,20 @@ labels: requirement, triage nodig
 
 ## Functionaliteit
 
-Beschrijf:
-- de motivatie
-- wat er in scope is
+--
 
 ## Toegevoegde waarde
 
-Beschrijf wat de toegevoegde waarde is (bv hoeveel gebruikers worden er mee geholpen, is er extra waarde op het gebied van snelheid, onderhoudbaarheid, kosten, etc).
+--
 
-## Out of scope (optioneel)
+## Out of scope
 
-Beschrijf waar geen rekening mee gehouden hoeft te worden.
+--
 
-## Risico's (optioneel)
+## Risico's
 
-Mogelijke misinterpretaties door developers, misbruik door eindgebruikers, beperkingen voor toekomstige uitbreidingen, security risico's, performance risico's.
+--
 
-## Techniek (optioneel)
+## Techniek
 
-Beschrijf eventuele technische overwegingen of oplossingsrichtingen.
+--
