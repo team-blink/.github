@@ -7,20 +7,24 @@ assignees: mavdhe
 
 ---
 
-**Omschrijving**
+## Omschrijving
 
-Geef een korte omschrijving van de bug.
+Geef een omschrijving van de bug.
 
-**Impact**
+## Impact
 
 Beschrijf de impact van de bug. Bijvoorbeeld hoeveel gebruikers er last van hebben, of wat er zou gebeuren als er geen oplossing komt voor de bug.
 
-**Reproductie stappen**
+## Reproductie stappen
 
 1.
 2.
 3.
 
-**Extra informatie**
+## Work-around
+
+Als er een work-around is, beschrijf deze dan hier.
+
+## Extra informatie
 
 Voeg hier extra informatie toe die kan helpen om de bug sneller op te lossen. Denk bijvoorbeeld aan logs, browser informatie en schermopnamen.
