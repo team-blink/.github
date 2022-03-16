@@ -6,7 +6,7 @@ labels: ''
 
 ---
 
-## Beschrijving
+## Functionaliteit
 
 Beschrijf:
 - motivatie
@@ -20,3 +20,7 @@ Beschrijf waar geen rekening mee gehouden hoeft te worden.
 ## Risico's (optioneel)
 
 Mogelijke misinterpretaties door developers, misbruik door eindgebruikers, beperkingen voor toekomstige uitbreidingen, security risico's, performance risico's.
+
+## Techniek (optioneel)
+
+Beschrijf eventuele technische overwegingen of oplossingsrichtingen.
