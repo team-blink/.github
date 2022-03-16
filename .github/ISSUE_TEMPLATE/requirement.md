@@ -1,6 +1,6 @@
 ---
-name: "\U0001F9E9 Requirement (alleen voor Product Owners)"
-about: Een nieuwe requirement (use-case) of een wijziging op een bestaande.
+name: "\U0001F9E9 Requirement"
+about: Een nieuwe requirement.
 title: ''
 labels: ''
 
@@ -9,9 +9,12 @@ labels: ''
 ## Functionaliteit
 
 Beschrijf:
-- motivatie
-- doelen
+- de motivatie
 - wat er in scope is
+
+## Toegevoegde waarde
+
+Beschrijf wat de toegevoegde waarde is (bv hoeveel gebruikers worden er mee geholpen, is er extra waarde op het gebied van snelheid, onderhoudbaarheid, kosten, etc).
 
 ## Out of scope (optioneel)
 
