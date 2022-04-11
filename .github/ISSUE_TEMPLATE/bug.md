@@ -21,6 +21,24 @@ labels: bug, triage nodig
 
 --
 
-## Extra informatie (logs, omgeving, schermopnamen)
+## Extra informatie
 
---
+Gerelateerd aan: --  
+Geblokkeerd door: --  
+Logging: --  
+Omgeving: --  
+Schermopnamen: --  
+
+## Taken
+
+- Onderzoek
+  - [ ] --
+- Development
+  - [ ] --
+- Test
+  - [ ] --
+- Documentatie
+  - [ ] --
+- Onderhoud & systeem
+  - [ ] --
+
