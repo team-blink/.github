@@ -20,6 +20,21 @@ labels: requirement, triage nodig
 
 --
 
-## Techniek
+## Extra informatie
 
---
+Gerelateerd aan: --  
+Geblokkeerd door: --  
+
+## Taken
+
+- Onderzoek
+  - [ ] --
+- Development
+  - [ ] --
+- Test
+  - [ ] --
+- Documentatie
+  - [ ] --
+- Onderhoud & systeem
+  - [ ] --
+
