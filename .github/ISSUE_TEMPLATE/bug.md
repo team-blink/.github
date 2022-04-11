@@ -21,6 +21,6 @@ labels: bug, triage nodig
 
 --
 
-## Extra informatie (logs, omgeving, scheropnamen)
+## Extra informatie (logs, omgeving, schermopnamen)
 
 --
