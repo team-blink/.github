@@ -17,7 +17,24 @@ labels: security, triage nodig
 1.
 2.
 
-## Extra informatie (logs, omgeving, scheropnamen)
+## Extra informatie
 
---
+Gerelateerd aan: --  
+Geblokkeerd door: --  
+Logging: --  
+Omgeving: --  
+Schermopnamen: --  
+
+## Taken
+
+- Onderzoek
+  - [ ] --
+- Development
+  - [ ] --
+- Test
+  - [ ] --
+- Documentatie
+  - [ ] --
+- Onderhoud & systeem
+  - [ ] --
 
