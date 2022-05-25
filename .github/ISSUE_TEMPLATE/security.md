@@ -1,7 +1,7 @@
 ---
 name: "⚠️ Security"
 about: Geef een beveiligingsprobleem door.
-labels: security, triage nodig
+labels: ":warning: security, :book: triage"
 ---
 
 ## Omschrijving
