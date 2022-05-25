@@ -1,7 +1,7 @@
 ---
 name: "\U0001F9E9 Requirement"
 about: Een nieuwe requirement.
-labels: requirement, triage nodig
+labels: requirement, :book: triage
 ---
 
 ## Functionaliteit
