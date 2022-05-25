@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug"
 about: Meld een reproduceerbare bug.
-labels: ":book: triage"
+labels: ":book: triage", ":warning: bug", "requirement"
 ---
 
 ## Omschrijving
