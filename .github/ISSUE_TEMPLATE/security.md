@@ -1,5 +1,5 @@
 ---
-name: "⚠️ Security"
+name: "🚨 Security"
 about: Geef een beveiligingsprobleem door.
 labels: ":warning: security, :book: triage"
 ---
