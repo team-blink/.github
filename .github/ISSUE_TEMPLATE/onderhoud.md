@@ -1,5 +1,5 @@
 ---
-name: "⚠️ Onderhoud"
+name: "🚧 Onderhoud"
 about: Geef een onderhoudsmelding door.
 labels: ":warning: onderhoud, :book: triage"
 ---
