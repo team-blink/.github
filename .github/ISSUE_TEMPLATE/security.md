@@ -17,24 +17,6 @@ labels: ":warning: security, :book: triage"
 1.
 2.
 
-## Extra informatie
-
-Gerelateerd aan: --  
-Geblokkeerd door: --  
-Logging: --  
-Omgeving: --  
-Schermopnamen: --  
-
 ## Taken
 
-- Onderzoek
-  - [ ] --
-- Development
-  - [ ] --
-- Test
-  - [ ] --
-- Documentatie
-  - [ ] --
-- Onderhoud & systeem
-  - [ ] --
-
+- [ ] --
