@@ -20,21 +20,6 @@ labels: "requirement, :book: triage"
 
 --
 
-## Extra informatie
-
-Gerelateerd aan: --  
-Geblokkeerd door: --  
-
 ## Taken
 
-- Onderzoek
-  - [ ] --
-- Development
-  - [ ] --
-- Test
-  - [ ] --
-- Documentatie
-  - [ ] --
-- Onderhoud & systeem
-  - [ ] --
-
+- [ ] --
