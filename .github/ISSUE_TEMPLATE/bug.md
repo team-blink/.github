@@ -21,24 +21,6 @@ labels: ":warning: bug, :book: triage"
 
 --
 
-## Extra informatie
-
-Gerelateerd aan: --  
-Geblokkeerd door: --  
-Logging: --  
-Omgeving: --  
-Schermopnamen: --  
-
 ## Taken
 
-- Onderzoek
-  - [ ] --
-- Development
-  - [ ] --
-- Test
-  - [ ] --
-- Documentatie
-  - [ ] --
-- Onderhoud & systeem
-  - [ ] --
-
+- [ ] --
