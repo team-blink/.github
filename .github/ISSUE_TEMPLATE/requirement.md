@@ -12,6 +12,10 @@ labels: "requirement, :book: triage"
 
 --
 
+## Acceptatie criteria
+
+--
+
 ## Out of scope
 
 --
