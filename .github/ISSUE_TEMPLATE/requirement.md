@@ -20,7 +20,7 @@ labels: "requirement, :book: triage"
 
 --
 
-## Risico's
+## Risico's en aandachtspunten
 
 --
 
