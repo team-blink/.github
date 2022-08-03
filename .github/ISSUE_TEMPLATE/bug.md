@@ -21,6 +21,10 @@ labels: ":warning: bug, :book: triage"
 
 --
 
+## Risico's en aandachtspunten
+
+--
+
 ## Taken
 
 - [ ] --
