@@ -26,4 +26,4 @@ labels: "requirement"
 
 ## Taken
 
-- [ ] --
+--
