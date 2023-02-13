@@ -12,7 +12,7 @@ labels: "requirement"
 
 --
 
-## Acceptatie criteria
+## Acceptatiecriteria
 
 --
 
