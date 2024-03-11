@@ -16,10 +16,6 @@ labels: "requirement"
 
 --
 
-## Out of scope
-
---
-
 ## Risico's en aandachtspunten
 
 --
@@ -27,3 +23,18 @@ labels: "requirement"
 ## Taken
 
 --
+
+## DoR
+- [ ] User Story gedefinieerd: Als [rol/gebruiker] wil ik [functie/actie] zodat ik [doel/waarde]
+- [ ] Toegevoegde waarde beschreven
+- [ ] Acceptatie criteria
+  - [ ] Functioneel
+  - [ ] Technisch
+- [ ] UI Design duidelijk/beschikbaar
+- [ ] Architectuur duidelijk/beschikbaar
+- [ ] Risico's
+- [ ] Afhankelijkheden externe systemen
+- [ ] Test strategie duidelijk
+- [ ] Taken aangemaakt
+- [ ] Complexiteit ingeschat
+
