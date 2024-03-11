@@ -38,3 +38,9 @@ labels: "requirement"
 - [ ] Taken aangemaakt
 - [ ] Complexiteit ingeschat
 
+## DoD
+- [ ] Unit tests
+- [ ] Documentatie
+- [ ] Acceptatie criteria afgevinkt
+- [ ] Deployment instructies
+
