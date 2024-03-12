@@ -30,6 +30,7 @@ labels: ":warning: bug"
 - [ ] --
 
 ## DoR
+- [ ] Reproductiestappen
 - [ ] Acceptatie criteria
   - [ ] Functioneel
   - [ ] Technisch
