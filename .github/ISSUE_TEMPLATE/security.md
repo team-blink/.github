@@ -22,6 +22,7 @@ labels: ":warning: security"
 - [ ] --
 
 ## DoR
+- [ ] Reproductiestappen
 - [ ] Acceptatie criteria
   - [ ] Functioneel
   - [ ] Technisch
