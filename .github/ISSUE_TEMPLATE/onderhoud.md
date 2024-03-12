@@ -20,7 +20,6 @@ labels: ":warning: onderhoud"
 - [ ] Acceptatie criteria
   - [ ] Functioneel
   - [ ] Technisch
-- [ ] Architectuur duidelijk/beschikbaar
 - [ ] Risico's
 - [ ] Afhankelijkheden externe systemen
 - [ ] Test strategie duidelijk
